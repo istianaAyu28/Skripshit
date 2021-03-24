@@ -1,0 +1,35 @@
+<?php
+// $query1="SELECT * FROM tb_nilai_pilgan order by presentase";
+// $pola = 'asc';
+// $polabaru='asc';
+// if(isset($_GET['orderby'])){
+//     $orderby =$_GET['orderby'];
+//     $pola=$_GET['pola'];
+    
+//     $query1="SELECT * FROM tb_nilai_pilgan order by $orderby $pola";
+//     if($pola=='asc'){
+//         $polabaru='asc';
+//     }else{
+//         $polabaru='asc';
+//     }
+// }
+
+?>
+ <?php 
+                    // $result=mysqli_query($db, $query1) or die (mysqli_error());
+                    // $#=1;
+                    
+                    // while($rows = mysqli_fetch_object($result)) {
+                    //     ?>
+                         <!-- <tr> -->
+                    <!-- //         <th><?php echo $# -->
+                    //         ?></th>
+                    //         <th><?php   echo $rows ->  # ;?></th>
+                    //         <th><?php   echo $rows -> Nama;?></th>
+                    //         <th><?php   echo $rows -> Kelas;?></th>
+                    //         <th><?php   echo $rows -> Status Hasil;?></th>
+                    //         <th><?php   echo $rows -> Tindakan;?></th>
+                    //     </tr>
+                    //     <?php
+                    //     $#++;
+                    //   }?>
